@@ -21,4 +21,4 @@ In this video, we cover the basics of Arduino, its features, and how to get star
 
 ---
 
-🔗 Next: [Lesson 2 - Arduino Working Environments](../Lesson2/README.md)
+🔗 Next: [Lesson 2 - Arduino Development Environment](https://github.com/IronWolf437/arduino-course/tree/main/lesson-2%20%7C%20Arduino%20Development%20Environment)
