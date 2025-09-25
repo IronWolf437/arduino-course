@@ -1,7 +1,12 @@
-# 🎥 Lesson 1 - Introduction to Arduino
+# 🎥 Lesson 1 - Introduction to Arduino  
+
+[![Introduction to Arduino](https://github.com/IronWolf437/arduino-course/blob/main/lesson-1%20%7C%20Introduction%20to%20Arduino/thumbnail.png)](https://youtu.be/18Xj0_KA_E4)  
+⬆️ **Click the image to watch the video on YouTube**  
 
 This is the first lesson in the **Arduino Course**.  
 In this video, we cover the basics of Arduino, its features, and how to get started.  
+
+---
 
 ## 📚 Lesson Content
 - What is Arduino?  
@@ -12,8 +17,21 @@ In this video, we cover the basics of Arduino, its features, and how to get star
 - Detailed specifications and components of the Arduino Uno (explaining each pin and its function)  
 - How to study this course (and any programming language in general)  
 
+---
+
 ## 📺 YouTube Video
-👉 [Watch Lesson 1 on YouTube](https://youtube.com/your-video-link)
+👉 [Watch Lesson 1 on YouTube](https://youtu.be/18Xj0_KA_E4)  
+
+---
+
+## 🔗 Resources
+- [Official Arduino Website](https://www.arduino.cc/)  
+- [Arduino Documentation Page](https://docs.arduino.cc/hardware/)  
+- [free electornics Store](https://free-electronic.com/)
+- [RAM electornics Store](https://www.ram-e-shop.com/)
+- [Lampatronics Store](https://lampatronics.com/)
+
+---
 
 ## 📝 Notes
 - No Arduino code is included in this lesson.  
