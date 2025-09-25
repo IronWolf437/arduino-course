@@ -20,7 +20,7 @@ In this video, we cover the basics of Arduino, its features, and how to get star
 ---
 
 ## 📺 YouTube Video
-👉 [Watch Lesson 1 on YouTube](https://youtu.be/18Xj0_KA_E4)  
+👉 [Watch Lesson 1 on YouTube](https://www.youtube.com/embed/18Xj0_KA_E4?si=wGawiKHkqcfn7KOg)  
 
 ---
 
