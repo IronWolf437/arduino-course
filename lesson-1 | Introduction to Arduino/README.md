@@ -1,6 +1,6 @@
 # 🎥 Lesson 1 - Introduction to Arduino  
 
-[![Introduction to Arduino](https://github.com/IronWolf437/arduino-course/blob/main/lesson-1%20%7C%20Introduction%20to%20Arduino/thumbnail.png)](https://youtu.be/18Xj0_KA_E4)  
+[![Introduction to Arduino](https://github.com/IronWolf437/arduino-course/blob/main/lesson-1%20%7C%20Introduction%20to%20Arduino/thumbnail.png)](https://www.youtube.com/embed/18Xj0_KA_E4?si=wGawiKHkqcfn7KOg)  
 ⬆️ **Click the image to watch the video on YouTube**  
 
 This is the first lesson in the **Arduino Course**.  
