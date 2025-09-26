@@ -58,11 +58,11 @@ The **Arduino IDE** is the most widely used software for writing and uploading A
 1. Activate the Arduino IDE:
 - Open a terminal in the same directory as the Arduino IDE file.
 - Enter the following command in the terminal:
-```
-chmod +x "path of ardion IDE"
+```bash
+chmod +x "path of Arduino IDE file"
 ```
 2. To define the device's port to transfer code from the Arduino IDE to the Arduino board, enter the following command:
-```
+```bash
 sudo usermod -aG dialout $USER
 ```
 👉 [Download Arduino IDE](https://www.arduino.cc/en/software/)  
